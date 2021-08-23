@@ -633,7 +633,7 @@ html {
 
 @media (max-width: 479.98px) {
 	.dream {
-		padding: 30px 0px 20px 0px;
+		padding: 15px 0px 20px 0px;
 	}
 
 	.dream__subtitle {
@@ -763,7 +763,11 @@ html {
 
 @media (max-width: 479.98px) {
 	.why {
-		padding: 20px 0px;
+		padding: 40px 0px 10px 0px;
+	}
+
+	.why__row {
+		padding: 0;
 	}
 
 	.why__item {
@@ -968,7 +972,7 @@ html {
 
 @media (max-width: 479.98px) {
 	.gallery {
-		padding: 20px 0px;
+		padding: 10px 0px;
 	}
 
 	.gallery__content {
@@ -1119,7 +1123,7 @@ html {
 
 @media (max-width: 479.98px) {
 	.client {
-		padding: 40px 0px 25px 0px;
+		padding: 15px 0px 15px 0px;
 	}
 
 	.client__item {
@@ -1270,6 +1274,11 @@ html {
 }
 
 @media (max-width: 479.98px) {
+
+	.subscribe {
+		padding: 15px 0px 15px 0px;
+	}
+
 	.subscribe__subtitle {
 		font-size: 1.6rem;
 	}
@@ -1423,7 +1432,7 @@ html {
 
 @media (max-width: 560.98px) {
 	.footer {
-		padding: 30px 0px 100px 0px;
+		padding: 15px 0px 100px 0px;
 	}
 
 	.footer__body {
@@ -1432,7 +1441,7 @@ html {
 	}
 
 	.footer__item {
-		margin: 0px 0px 40px 0px;
+		margin: 0px 0px 25px 0px;
 	}
 
 	.footer__box {
